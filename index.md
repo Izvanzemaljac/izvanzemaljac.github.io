@@ -25,7 +25,7 @@ text text
 - [Visual novel project](https://github.com/Izvanzemaljac/izvanzemaljac.github.io/blob/master/images/Wall_shasha4.png)
 <img src="images/Wall_shasha4.png"/>
 <br>
-Working on a Visual novel game. 
+Working on a Visual novel game. Programing in Unity with NaniNovel extension. Organizing storyline with choiches on Draw.io.
 <br>
 
 - [Project 2 Title](http://example.com/)
