@@ -13,11 +13,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   
   <p style="border:2px dashed #DDE9ED;"><b> 
-  &thinsp;Thin space<br> Programming skills </b>
+  &ensp; <b> Programming skills </b>
   <br>
-  &thinsp;Thin space<br>- Unity C#
+  &ensp;- Unity C#<br>
   <br>
-  &thinsp;Thin space<br>- NaniNovel (Extension for Unity)
+  - NaniNovel (Extension for Unity)
   <br>
   &thinsp;Thin space<br>- Ren'py
   <br><br>
