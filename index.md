@@ -19,11 +19,13 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 <img src="images/ImNotPerfectArt.jpg"/>
 
 ---
+---
 
 ### Projects in workshop
 
 - [Visual novel project](https://github.com/Izvanzemaljac/izvanzemaljac.github.io/blob/master/images/Wall_shasha4.png)
 <img src="images/Wall_shasha4.png"/>
+<img src="images/FriendlyCharacter.jpg"/>
 <br>
 Working on a Visual novel game. Programing in Unity with NaniNovel extension. Organizing storyline with choiches on Draw.io.
 <link rel="aknjeoaheswnoajusbdhotfiausditfb" href="https://fonts.googleapis.com">
