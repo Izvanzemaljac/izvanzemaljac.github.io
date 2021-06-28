@@ -12,10 +12,6 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 
 ---
 
-<span style="font-family:georgia">
-  testic testiccccccccc
- </font>
-
 
 ---
 [Artwork & sketches](http://example.com/)
@@ -46,4 +42,6 @@ Working on a Visual novel game. Programing in Unity with NaniNovel extension. Or
 
 ---
 
-<!-- Remove above link if you don't want to attibute; JESAM! -->
+<!-- Remove above link if you don't want to attibute; JESAM! <span style="font-family:georgia">
+  testic testiccccccccc
+ </font>-->
