@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Done projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+text text
+<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +20,7 @@
 
 ---
 
-### Category Name 2
+### Projects in workshop
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
