@@ -51,7 +51,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <b> Contact </b>
   <br>
-  📧 GMail: ivana.rebic01@gmail.com
+  📧 GMail: ivana.rebic01@gmail.com 
+  <br>
+  <a href="mailto:ivana.rebic01@gmail.com">Email me here!</a>
   <br><br>
   
   <b> Educated profession </b>
