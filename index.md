@@ -11,10 +11,9 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 <br>
 
 ---
-style = "font-family:georgia;font-size:16px;font-style:italic;">
-This is demo text
+
 <span style="font-family:georgia">
-  testic testic
+  testic testiccccccccc
  </font>
 
 
