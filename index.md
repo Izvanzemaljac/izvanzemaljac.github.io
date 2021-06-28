@@ -11,7 +11,7 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 <br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+<a href="/https://krugisa.itch.io/piratiska-riba" target="_blank">Testic</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
