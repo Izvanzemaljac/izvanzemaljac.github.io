@@ -11,10 +11,8 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 <br>
 
 ---
-<h1>Our Products</h1>
-      <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
-         This is demo text
-      </p>
+style = "font-family:georgia;font-size:16px;font-style:italic;">
+This is demo text
 
 
 ---
