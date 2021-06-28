@@ -11,14 +11,17 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 <br>
 
 ---
-
+<h1>Our Products</h1>
+      <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+         This is demo text
+      </p>
 
 
 ---
 [Artwork & sketches](http://example.com/)
 <img src="images/ImNotPerfectArt.jpg"/>
 <img src="images/ManInHanfuWtihDiziFlute.jpg"/>
-<img src=""/>
+
 
 ---
 ---
@@ -28,6 +31,7 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 - [Visual novel project](https://github.com/Izvanzemaljac/izvanzemaljac.github.io/blob/master/images/Wall_shasha4.png)
 <img src="images/Wall_shasha4.png"/>
 <img src="images/FriendlyCharacter.jpg"/>
+<img src="images/RedWithoutClothes.jpg"/>
 <br>
 Working on a Visual novel game. Programing in Unity with NaniNovel extension. Organizing storyline with choiches on Draw.io.
 <link rel="aknjeoaheswnoajusbdhotfiausditfb" href="https://fonts.googleapis.com">
