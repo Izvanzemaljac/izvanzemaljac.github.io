@@ -5,7 +5,7 @@
 ### Done projects 
 
 [Piratiska Riba](/https://krugisa.itch.io/piratiska-riba)
-<img src=https://img.itch.zone/aW1hZ2UvOTYyNDU0LzU0NjA0NjAucG5n/original/S2IJxK.png>
+<img src="https://img.itch.zone/aW1hZ2UvOTYyNDU0LzU0NjA0NjAucG5n/original/S2IJxK.png">
 <br>
 Worked on a level design for both islands using Unity engine and 3D assets.
 <br>
