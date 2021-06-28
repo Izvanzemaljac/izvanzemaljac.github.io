@@ -10,6 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Nationality: Croatian
   <br><br>
+  font-family: 'Open Sans', sans-serif;
   <link rel="preconnect" href="https://fonts.googleapis.com">
   
   <p style="border:2px dashed #B6D0D8;"><b> 
