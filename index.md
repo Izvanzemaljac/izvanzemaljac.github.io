@@ -4,10 +4,10 @@
 
 ### Done projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Piratiska Riba](/https://krugisa.itch.io/piratiska-riba)
+<img src=https://img.itch.zone/aW1hZ2UvOTYyNDU0LzU0NjA0NjAucG5n/original/S2IJxK.png>
 <br>
-text text
+Worked on a level design for both islands using Unity engine and 3D assets.
 <br>
 
 ---
