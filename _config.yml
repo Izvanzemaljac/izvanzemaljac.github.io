@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Nationality: Croatian
   <br><br>
   
-  <p style="border:2px dashed #000099;"><b> Programming skills </b>
+  <p style="border:2px dashed #DDE9ED;"><b> Programming skills </b>
   <br>
   - Unity C#
   <br>
@@ -32,27 +32,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   - Draw.io
   <br><br></p>
-  <b> Programming skills </b>
-  <br>
-  - Unity C#
-  <br>
-  - NaniNovel (Extension for Unity)
-  <br>
-  - Ren'py
-  <br><br>
-  
-  <b> Software </b>
-  <br>
-  - Adobe Photoshop
-  <br>
-  - Clip Studio Paint PRO / EX
-  <br>
-  - Blender
-  <br>
-  - Krita
-  <br>
-  - Draw.io
-  <br><br>
   
   <b> Languages </b>
   <br>
