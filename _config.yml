@@ -1,5 +1,6 @@
 title: Ivana Rebić # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here/ umjesto logo.png ise ime foldera gdje se nalazi pa onda jepg ako je takva slika
+# mora biti /images/ osim ako nisi stavio u main, ali NE stavljaj tamo!
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
