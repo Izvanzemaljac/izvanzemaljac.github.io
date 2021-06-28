@@ -26,6 +26,7 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 <img src="images/Wall_shasha4.png"/>
 <br>
 Working on a Visual novel game. Programing in Unity with NaniNovel extension. Organizing storyline with choiches on Draw.io.
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <br>
 
 - [Project 2 Title](http://example.com/)
