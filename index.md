@@ -22,7 +22,11 @@ text text
 
 ### Projects in workshop
 
-- [Project 1 Title](http://example.com/)
+- [Visual novel project](https://github.com/Izvanzemaljac/izvanzemaljac.github.io/blob/master/images/Wall_shasha4.png)
+<br>
+Working on a Visual novel game. 
+<br>
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
