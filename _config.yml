@@ -15,24 +15,24 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p style="border:2px dashed #DDE9ED;"><b> 
   &ensp; Programming skills </b>
   <br>
-  &ensp;- Unity C#<br>
+  &ensp;- Unity C#
   <br>
-  &ensp;- NaniNovel (Extension for Unity)<br>
+  &ensp;- NaniNovel (Extension for Unity)
   <br>
-  &ensp;- Ren'py<br>
+  &ensp;- Ren'py
   <br><br>
   
-  <b> Software </b>
+  &ensp;<b> Software </b>
   <br>
-  - Adobe Photoshop
+  &ensp;- Adobe Photoshop
   <br>
-  - Clip Studio Paint PRO / EX
+  &ensp;- Clip Studio Paint PRO / EX
   <br>
-  - Blender
+  &ensp;- Blender
   <br>
-  - Krita
+  &ensp;- Krita
   <br>
-  - Draw.io
+  &ensp;- Draw.io
   </p>
   
   
