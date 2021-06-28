@@ -2,11 +2,23 @@ title: Ivana Rebić # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here/ umjesto logo.png ise ime foldera gdje se nalazi pa onda jepg ako je takva slika
 # mora biti /images/ osim ako nisi stavio u main, ali NE stavljaj tamo!
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  BASIC INFO 
+  Age: 19
+  Nationality: Croatian
   <br><br>
-  Second description 
+  
+  Programming skills
+  - Unity C#
+  - Ren'py
+  
+  Software
+  - Adobe Photoshop
+  - Clip Studio Paint PRO / EX
+  - Blender
+  - Krita
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
