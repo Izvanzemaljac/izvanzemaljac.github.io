@@ -4,6 +4,7 @@ title: Ivana Rebić # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b> BASIC INFO <b/>
   Age: 19
+  <br>
   Nationality: Croatian
   <br><br>
   
@@ -25,6 +26,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Krita
   <br><br>
   
+  <b> Languages <b/>
+  English
+  Croatian (Native)
+  Japanese (A1)
   
   
 theme: jekyll-theme-minimal
