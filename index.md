@@ -22,7 +22,8 @@ text text
 
 ### Projects in workshop
 
-- [Visual novel project](https://github.com/Izvanzemaljac/izvanzemaljac.github.io/blob/master/images/Wall_shasha4.png)
+- [Visual novel project] (https://github.com/Izvanzemaljac/izvanzemaljac.github.io/blob/master/images/Wall_shasha4.png)
+<img src="images/images/Wall_shasha4.png/>
 <br>
 Working on a Visual novel game. 
 <br>
