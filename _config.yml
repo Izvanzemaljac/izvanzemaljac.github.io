@@ -11,6 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Nationality: Croatian
   <br><br>
   
+  <p style="border:2px dashed #000099;">HTML color example</p>
   <b> Programming skills </b>
   <br>
   - Unity C#
