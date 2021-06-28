@@ -2,20 +2,20 @@ title: Ivana Rebić # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here/ umjesto logo.png ise ime foldera gdje se nalazi pa onda jepg ako je takva slika
 # mora biti /images/ osim ako nisi stavio u main, ali NE stavljaj tamo!
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b> BASIC INFO <b/>
+  <b> BASIC INFO </b>
   Age: 19
   <br>
   Nationality: Croatian
   <br><br>
   
-  <b> Programming skills <b/>
+  <b> Programming skills </b>
   <br>
   - Unity C#
   <br>
   - Ren'py
   <br><br>
   
-  <b> Software <b/>
+  <b> Software </b>
   <br>
   - Adobe Photoshop
   <br>
@@ -26,7 +26,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Krita
   <br><br>
   
-  <b> Languages <b/>
+  <b> Languages </b>
   English
   Croatian (Native)
   Japanese (A1)
