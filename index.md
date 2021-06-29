@@ -33,7 +33,6 @@ Working on a Visual novel game. Programing in Unity with NaniNovel extension. Or
 <link rel="aknjeoaheswnoajusbdhotfiausditfb" href="https://fonts.googleapis.com">
 <br>
 
-- [Project 2 Title](http://example.com/)
 
 ---
 
