@@ -17,7 +17,8 @@ Worked on a level design for both islands using Unity engine and 3D assets.
 [Artwork & sketches](http://example.com/)
 <img src="images/ImNotPerfectArt.jpg"/>
 <img src="images/ManInHanfuWtihDiziFlute.jpg"/>
-
+<img src="images/PSX_20200817_131419.jpg"/>
+<img src="images/PSX_20200916_135216.jpg"/>
 
 ---
 ---
